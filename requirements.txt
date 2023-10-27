@@ -4,3 +4,4 @@ numpy==1.26.1
 gTTS==2.4.0
 openai-whisper==20230918
 setuptools-rust==1.8.0
+ffmpeg==1.4
