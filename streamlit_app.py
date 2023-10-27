@@ -2,7 +2,6 @@
 import streamlit as st
 import os
 import numpy as np
-import time
 from lib import transcribeAudio,text_to_speech
 
 
